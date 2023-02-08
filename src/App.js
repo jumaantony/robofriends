@@ -44,6 +44,11 @@ class App extends React.Component {
             Learn React
           </a>
         </header>
+
+        <p className='App-intro'>
+          Hello World
+        </p>
+
       </div>
     );
   }
