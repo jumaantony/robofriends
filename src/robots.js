@@ -52,18 +52,21 @@ export const robots = [
     id: 8,
     name: 'Nicholas Runolfsdottir V',
     username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    email: 'Sherwood@rosamond.me',
+    image: 'https://robohash.org/dhdddhjdsfdsdfkkw?100x100'
   },
   {
     id: 9,
     name: 'Glenna Reichert',
     username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    email: 'Chaim_McDermott@dana.io',
+    image: 'https://robohash.org/dhdddfdsdfkkw?100x100'
   },
   {
     id: 10,
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    email: 'Rey.Padberg@karina.biz',
+    image: 'https://robohash.org/heurfuerufkkw?100x100'
   }
 ];
